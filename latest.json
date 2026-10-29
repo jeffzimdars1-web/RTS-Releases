@@ -1,7 +1,7 @@
 {
   "packageName": "com.jeffz.rtstest",
-  "versionCode": 9,
-  "versionName": "0.9",
-  "apkUrl": "https://github.com/jeffzimdars1-web/RTS-Releases/raw/main/RTS-v0.9.apk",
-  "sha256": "da636b5bd28ad8f918e1f039d09a8c0e15ddfd11415a4932311bbbe5c1804dd7"
+  "versionCode": 10,
+  "versionName": "0.10",
+  "apkUrl": "https://github.com/jeffzimdars1-web/RTS-Releases/raw/main/RTS-v0.10.apk",
+  "sha256": "10faaff034311dbe6c31c59f2d718e151ad2998f977266ca32a73cd4e5cddb5f"
 }
