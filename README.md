@@ -2,7 +2,7 @@
 Android APK releases and updates for RTS (realistic C&C-style strategy game).
 
 - `latest.json` - the newest version. The game checks this file on launch and every 10 minutes.
-- `RTS-v<version>.apk` - the APK it points to. Only the newest APK is kept here.
+- The APK itself is hosted in Supabase storage (no 100 MB limit); `apkUrl` in latest.json is the download link.
 
-To update: open the game and tap the green **Update ready** button (top right), or download the APK
-from this page and tap it to install over the old one.
+To update: open the game and tap the green **Update ready** button (top right), or open the `apkUrl` link from latest.json
+on your phone and tap the downloaded file to install over the old one.
